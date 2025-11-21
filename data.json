@@ -1,0 +1,128 @@
+[
+  {
+    "nome": "Os Caça-Fantasmas",
+    "descricao": "Humor, aventura sobrenatural e química perfeita entre o elenco",
+    "ano": 1984,
+    "criador": "Ivan Reitman",
+    "link": "https://www.imdb.com/title/tt0087332/"
+  },
+  {
+    "nome": "E.T. - O Extraterrestre",
+    "descricao": "Spielberg no auge, misturando fantasia com emoção genuína",
+    "ano": 1982,
+    "criador": "Steven Spielberg",
+    "link": "https://www.imdb.com/title/tt0083866/"
+  },
+  {
+    "nome": "Os Goonies",
+    "descricao": "Aventura pura com amizade e tesouros, produzido por Spielberg",
+    "ano": 1985,
+    "criador": "Richard Donner",
+    "link": "https://www.imdb.com/title/tt0089218/"
+  },
+  {
+    "nome": "Indiana Jones e os Caçadores da Arca Perdida",
+    "descricao": "Aventura clássica com humor e ação na medida certa",
+    "ano": 1981,
+    "criador": "Steven Spielberg",
+    "link": "https://www.imdb.com/title/tt0082971/"
+  },
+  {
+    "nome": "Gremlins",
+    "descricao": "Fantasia sombria mas divertida, outro Spielberg de produtor",
+    "ano": 1984,
+    "criador": "Joe Dante",
+    "link": "https://www.imdb.com/title/tt0087363/"
+  },
+  {
+    "nome": "Top Gun - Ases Indomáveis",
+    "descricao": "Tom Cruise pilotando jatos, trilha sonora icônica, pura adrenalina anos 80",
+    "ano": 1986,
+    "criador": "Tony Scott",
+    "link": "https://www.imdb.com/title/tt0092099/"
+  },
+  {
+    "nome": "Blade Runner",
+    "descricao": "Sci-fi noir filosófica com estética cyberpunk definitiva",
+    "ano": 1982,
+    "criador": "Ridley Scott",
+    "link": "https://www.imdb.com/title/tt0083658/"
+  },
+  {
+    "nome": "O Exterminador do Futuro",
+    "descricao": "Sci-fi de ação com viagem no tempo e tensão constante",
+    "ano": 1984,
+    "criador": "James Cameron",
+    "link": "https://www.imdb.com/title/tt0088247/"
+  },
+  {
+    "nome": "De Volta para Escola",
+    "descricao": "Comédia irreverente com Rodney Dangerfield",
+    "ano": 1986,
+    "criador": "Alan Metter",
+    "link": "https://www.imdb.com/title/tt0090685/"
+  },
+  {
+    "nome": "Tron",
+    "descricao": "Pioneiro visual, mergulho literal no mundo digital",
+    "ano": 1982,
+    "criador": "Steven Lisberger",
+    "link": "https://www.imdb.com/title/tt0084827/"
+  },
+  {
+    "nome": "O Segredo do Abismo",
+    "descricao": "James Cameron explorando o oceano com efeitos revolucionários",
+    "ano": 1989,
+    "criador": "James Cameron",
+    "link": "https://www.imdb.com/title/tt0096754/"
+  },
+  {
+    "nome": "Curtindo a Vida Adoidado",
+    "descricao": "John Hughes capturando perfeitamente a adolescência com humor e estilo",
+    "ano": 1986,
+    "criador": "John Hughes",
+    "link": "https://www.imdb.com/title/tt0091042/"
+  },
+  {
+    "nome": "Conta Comigo",
+    "descricao": "Aventura de verão com substância emocional",
+    "ano": 1986,
+    "criador": "Rob Reiner",
+    "link": "https://www.imdb.com/title/tt0092005/"
+  },
+  {
+    "nome": "Império do Sol",
+    "descricao": "Spielberg mais dramático, mas com aquela grandiosidade visual",
+    "ano": 1987,
+    "criador": "Steven Spielberg",
+    "link": "https://www.imdb.com/title/tt0092965/"
+  },
+  {
+    "nome": "Beetlejuice",
+    "descricao": "Tim Burton no melhor estilo fantasia maluca",
+    "ano": 1988,
+    "criador": "Tim Burton",
+    "link": "https://www.imdb.com/title/tt0094721/"
+  },
+  {
+    "nome": "De Volta para o Futuro",
+    "descricao": "Viagem no tempo icônica com DeLorean, Marty McFly e Doc Brown em aventura perfeita",
+    "ano": 1985,
+    "criador": "Robert Zemeckis",
+    "link": "https://www.imdb.com/title/tt0088763/"
+  },
+  {
+    "nome": "De Volta para o Futuro II",
+    "descricao": "Sequência ambiciosa explorando futuro e passado alternativo com estilo cyberpunk",
+    "ano": 1989,
+    "criador": "Robert Zemeckis",
+    "link": "https://www.imdb.com/title/tt0096874/"
+  },
+  {
+    "nome": "De Volta para o Futuro III",
+    "descricao": "Finaliza a trilogia no velho oeste com a mesma energia e coração",
+    "ano": 1990,
+    "criador": "Robert Zemeckis",
+    "link": "https://www.imdb.com/title/tt0099088/"
+  }
+]
