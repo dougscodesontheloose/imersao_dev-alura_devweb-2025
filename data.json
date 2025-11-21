@@ -124,5 +124,328 @@
     "ano": 1990,
     "criador": "Robert Zemeckis",
     "link": "https://www.imdb.com/title/tt0099088/"
+  },
+  {
+    "nome": "Star Wars: Episódio VI - O Retorno de Jedi",
+    "descricao": "O retorno triunfal de Luke Skywalker, Leia e Han Solo contra o Império Galáctico, culminando na derrota do Imperador e na redenção de Darth Vader. Influenciou profundamente a construção de franquias cinematográficas.",
+    "ano": "1983",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0086190/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Ópera Espacial",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Aliens, O Resgate",
+    "descricao": "Ellen Ripley retorna a um planeta colonizado apenas para descobrir que os Xenomorfos dominaram o local. Um marco na mistura de horror e ação militar, dirigido por James Cameron.",
+    "ano": "1986",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0090605/",
+    "tags": [
+      "Ação",
+      "Ficção Científica",
+      "Horror",
+      "Guerra"
+    ]
+  },
+  {
+    "nome": "Duro de Matar",
+    "descricao": "Um policial de Nova York tenta salvar sua esposa e reféns de terroristas em um prédio de Los Angeles. Define o arquétipo do herói de ação 'homem comum' e revolucionou os filmes de ação de Natal.",
+    "ano": "1988",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0095016/",
+    "tags": [
+      "Ação",
+      "Suspense",
+      "Natal",
+      "Policial"
+    ]
+  },
+  {
+    "nome": "Clube dos Cinco",
+    "descricao": "Cinco estudantes de diferentes grupos sociais são forçados a passar um sábado juntos na detenção. Um clássico de John Hughes que definiu a angst e a identidade adolescente da década.",
+    "ano": "1985",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0088847/",
+    "tags": [
+      "Comédia",
+      "Drama",
+      "Adolescente",
+      "Cultura Pop"
+    ]
+  },
+  {
+    "nome": "Robocop",
+    "descricao": "Em um futuro distópico, um policial morto é transformado em um ciborgue para combater o crime. Uma sátira sombria sobre corporativismo, violência e a natureza humana.",
+    "ano": "1987",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0093870/",
+    "tags": [
+      "Ação",
+      "Ficção Científica",
+      "Sátira",
+      "Distopia"
+    ]
+  },
+  {
+    "nome": "Máquina Mortífera",
+    "descricao": "Dois policiais com estilos opostos, um veterano melancólico e um novato impulsivo, são forçados a trabalhar juntos para desvendar uma conspiração de tráfico de drogas. Lançou o subgênero 'buddy cop'.",
+    "ano": "1987",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0093409/",
+    "tags": [
+      "Ação",
+      "Comédia",
+      "Policial",
+      "Suspense"
+    ]
+  },
+  {
+    "nome": "Scarface",
+    "descricao": "A ascensão e queda de Tony Montana, um refugiado cubano que se torna um dos maiores chefões do tráfico de drogas em Miami. Um filme seminal sobre ambição e excesso.",
+    "ano": "1983",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0086250/",
+    "tags": [
+      "Crime",
+      "Drama",
+      "Gângster",
+      "Cult"
+    ]
+  },
+  {
+    "nome": "Apertem os Cintos... O Piloto Sumiu!",
+    "descricao": "Uma paródia absurda e frenética dos filmes de desastre aéreos, conhecida por seu humor non-sense e pela rápida sucessão de piadas visuais. Um divisor de águas na comédia moderna.",
+    "ano": "1980",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0080339/",
+    "tags": [
+      "Comédia",
+      "Paródia",
+      "Cult",
+      "Absurdo"
+    ]
+  },
+  {
+    "nome": "Touro Indomável",
+    "descricao": "A história real e brutal de Jake LaMotta, um boxeador com talento e autodestruição, dirigida por Martin Scorsese. Considerado um dos maiores filmes biográficos já feitos.",
+    "ano": "1980",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0081398/",
+    "tags": [
+      "Drama",
+      "Esportes",
+      "Biografia",
+      "Clássico"
+    ]
+  },
+  {
+    "nome": "O Iluminado",
+    "descricao": "Um escritor aceita o trabalho de zelador em um hotel isolado durante o inverno, mas lentamente sucumbe à loucura sob a influência de forças sobrenaturais. Um marco do horror psicológico.",
+    "ano": "1980",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0081505/",
+    "tags": [
+      "Horror",
+      "Psicológico",
+      "Suspense",
+      "Clássico"
+    ]
+  },
+  {
+    "nome": "Fuga de Nova York",
+    "descricao": "Em 1997, a ilha de Manhattan foi transformada em uma prisão de segurança máxima. Snake Plissken, um criminoso endurecido, é enviado para resgatar o presidente dos EUA.",
+    "ano": "1981",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0082340/",
+    "tags": [
+      "Ação",
+      "Ficção Científica",
+      "Distopia",
+      "Cult"
+    ]
+  },
+  {
+    "nome": "Mad Max 2: A Caçada Continua",
+    "descricao": "Em um futuro pós-apocalíptico, Max Rockatansky defende uma comunidade de bandidos motorizados sedentos por gasolina. Um filme que elevou o nível do cinema de ação e cenários desoladores.",
+    "ano": "1981",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0082694/",
+    "tags": [
+      "Ação",
+      "Pós-Apocalíptico",
+      "Aventura",
+      "Road Movie"
+    ]
+  },
+  {
+    "nome": "Poltergeist",
+    "descricao": "Uma família suburbana é aterrorizada por fantasmas em sua nova casa, que se comunicam através da televisão e sequestram a filha mais nova. Clássico do horror sobrenatural familiar.",
+    "ano": "1982",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0084516/",
+    "tags": [
+      "Horror",
+      "Sobrenatural",
+      "Suspense"
+    ]
+  },
+  {
+    "nome": "Jogos de Guerra",
+    "descricao": "Um jovem gênio da computação acessa inadvertidamente um sistema militar que simula a Terceira Guerra Mundial, acreditando ser um novo jogo. Reflete os medos da Guerra Fria e a ascensão da cultura hacker.",
+    "ano": "1983",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0086567/",
+    "tags": [
+      "Ficção Científica",
+      "Suspense",
+      "Thriller",
+      "Tecnologia"
+    ]
+  },
+  {
+    "nome": "Um Tira da Pesada",
+    "descricao": "Um detetive de Detroit viaja para Beverly Hills para investigar o assassinato de um amigo, usando métodos pouco convencionais que chocam a polícia local. Estabeleceu Eddie Murphy como astro global.",
+    "ano": "1984",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0086960/",
+    "tags": [
+      "Comédia",
+      "Ação",
+      "Policial",
+      "Buddy Cop"
+    ]
+  },
+  {
+    "nome": "Karate Kid - A Hora da Verdade",
+    "descricao": "Um adolescente é ensinado a lutar karatê por um sábio sensei para enfrentar os valentões da escola. Definiu o formato de treinamento e redenção dos filmes de esportes da década.",
+    "ano": "1984",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0087538/",
+    "tags": [
+      "Drama",
+      "Esportes",
+      "Adolescente",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "A Hora do Espanto",
+    "descricao": "Um adolescente obcecado por filmes de terror descobre que seu novo vizinho é um vampiro. Uma mistura perfeita de horror teen e comédia, com efeitos práticos marcantes.",
+    "ano": "1985",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0089175/",
+    "tags": [
+      "Horror",
+      "Comédia",
+      "Slasher",
+      "Sobrenatural"
+    ]
+  },
+  {
+    "nome": "Highlander: O Guerreiro Imortal",
+    "descricao": "Um escocês imortal deve lutar contra seu último rival na cidade de Nova York. Famoso por seu conceito de 'Só pode haver um' e sua trilha sonora icônica da banda Queen.",
+    "ano": "1986",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0091203/",
+    "tags": [
+      "Ação",
+      "Fantasia",
+      "Aventura",
+      "Cult"
+    ]
+  },
+  {
+    "nome": "Nascido para Matar",
+    "descricao": "Um olhar brutal e sardônico sobre o treinamento e o impacto psicológico da Guerra do Vietnã em recrutas. Dirigido por Stanley Kubrick.",
+    "ano": "1987",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0093058/",
+    "tags": [
+      "Guerra",
+      "Drama",
+      "Psicológico",
+      "Clássico"
+    ]
+  },
+  {
+    "nome": "Uma Cilada Para Roger Rabbit",
+    "descricao": "Um detetive particular humano precisa provar a inocência de um desenho animado acusado de assassinato em um mundo onde desenhos e pessoas coexistem. Revolucionou a integração de live-action e animação.",
+    "ano": "1988",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0096438/",
+    "tags": [
+      "Animação",
+      "Comédia",
+      "Fantasia",
+      "Neo-Noir"
+    ]
+  },
+  {
+    "nome": "Rain Man",
+    "descricao": "Um egocêntrico herdeiro descobre que tem um irmão autista que herdou toda a fortuna de seu pai. Um drama intenso que ganhou o Oscar e aumentou a conscientização sobre o autismo.",
+    "ano": "1988",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0095953/",
+    "tags": [
+      "Drama",
+      "Estrada",
+      "Comédia Dramática"
+    ]
+  },
+  {
+    "nome": "Batman",
+    "descricao": "A adaptação gótica e visualmente sombria de Tim Burton, onde Batman enfrenta o Coringa em Gotham City. Reavivou o interesse moderno por filmes de super-heróis sérios.",
+    "ano": "1989",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0096895/",
+    "tags": [
+      "Super-Herói",
+      "Ação",
+      "Gótico",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Sociedade dos Poetas Mortos",
+    "descricao": "Um professor de inglês não convencional inspira um grupo de alunos em uma escola preparatória conservadora a 'fazer suas vidas extraordinárias'. Vencedor do Oscar de Melhor Roteiro Original.",
+    "ano": "1989",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0097165/",
+    "tags": [
+      "Drama",
+      "Adolescente",
+      "Clássico",
+      "Inspiração"
+    ]
+  },
+  {
+    "nome": "Matador de Aluguel",
+    "descricao": "Um 'cooler' profissional, especialista em tirar brigas de bares, é contratado para manter a ordem em um bar de beira de estrada em Missouri. Um clássico de ação B com Patrick Swayze.",
+    "ano": "1989",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0098205/",
+    "tags": [
+      "Ação",
+      "Luta",
+      "Drama",
+      "Cult"
+    ]
+  },
+  {
+    "nome": "Harry e Sally - Feitos Um Para o Outro",
+    "descricao": "A história de amor moderna que define o gênero da comédia romântica, seguindo a relação de Harry e Sally ao longo de uma década, debatendo se homens e mulheres podem ser apenas amigos.",
+    "ano": "1989",
+    "criador": null,
+    "link": "https://www.imdb.com/title/tt0098635/",
+    "tags": [
+      "Comédia",
+      "Romance",
+      "Clássico",
+      "Drama"
+    ]
   }
 ]
