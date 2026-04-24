@@ -4,448 +4,1464 @@
     "descricao": "Humor, aventura sobrenatural e química perfeita entre o elenco",
     "ano": 1984,
     "criador": "Ivan Reitman",
-    "link": "https://www.imdb.com/title/tt0087332/"
+    "link": "https://www.imdb.com/title/tt0087332/",
+    "tags": [
+      "Comédia",
+      "Sobrenatural",
+      "Aventura",
+      "Cult"
+    ],
+    "poster": "posters/tt0087332.jpg"
   },
   {
     "nome": "E.T. - O Extraterrestre",
     "descricao": "Spielberg no auge, misturando fantasia com emoção genuína",
     "ano": 1982,
     "criador": "Steven Spielberg",
-    "link": "https://www.imdb.com/title/tt0083866/"
+    "link": "https://www.imdb.com/title/tt0083866/",
+    "tags": [
+      "Ficção Científica",
+      "Família",
+      "Drama",
+      "Aventura"
+    ],
+    "poster": "posters/tt0083866.jpg"
   },
   {
     "nome": "Os Goonies",
     "descricao": "Aventura pura com amizade e tesouros, produzido por Spielberg",
     "ano": 1985,
     "criador": "Richard Donner",
-    "link": "https://www.imdb.com/title/tt0089218/"
+    "link": "https://www.imdb.com/title/tt0089218/",
+    "tags": [
+      "Aventura",
+      "Família",
+      "Comédia",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0089218.jpg"
   },
   {
     "nome": "Indiana Jones e os Caçadores da Arca Perdida",
     "descricao": "Aventura clássica com humor e ação na medida certa",
     "ano": 1981,
     "criador": "Steven Spielberg",
-    "link": "https://www.imdb.com/title/tt0082971/"
+    "link": "https://www.imdb.com/title/tt0082971/",
+    "tags": [
+      "Aventura",
+      "Ação",
+      "Arqueologia",
+      "Cult"
+    ],
+    "poster": "posters/tt0082971.jpg"
   },
   {
     "nome": "Gremlins",
     "descricao": "Fantasia sombria mas divertida, outro Spielberg de produtor",
     "ano": 1984,
     "criador": "Joe Dante",
-    "link": "https://www.imdb.com/title/tt0087363/"
+    "link": "https://www.imdb.com/title/tt0087363/",
+    "tags": [
+      "Horror",
+      "Comédia",
+      "Fantasia",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0087363.jpg"
   },
   {
     "nome": "Top Gun - Ases Indomáveis",
     "descricao": "Tom Cruise pilotando jatos, trilha sonora icônica, pura adrenalina anos 80",
     "ano": 1986,
     "criador": "Tony Scott",
-    "link": "https://www.imdb.com/title/tt0092099/"
+    "link": "https://www.imdb.com/title/tt0092099/",
+    "tags": [
+      "Ação",
+      "Drama",
+      "Romance",
+      "Militar"
+    ],
+    "poster": "posters/tt0092099.jpg"
   },
   {
     "nome": "Blade Runner",
     "descricao": "Sci-fi noir filosófica com estética cyberpunk definitiva",
     "ano": 1982,
     "criador": "Ridley Scott",
-    "link": "https://www.imdb.com/title/tt0083658/"
+    "link": "https://www.imdb.com/title/tt0083658/",
+    "tags": [
+      "Ficção Científica",
+      "Neo-Noir",
+      "Distopia",
+      "Cult"
+    ],
+    "poster": "posters/tt0083658.jpg"
   },
   {
     "nome": "O Exterminador do Futuro",
     "descricao": "Sci-fi de ação com viagem no tempo e tensão constante",
     "ano": 1984,
     "criador": "James Cameron",
-    "link": "https://www.imdb.com/title/tt0088247/"
+    "link": "https://www.imdb.com/title/tt0088247/",
+    "tags": [
+      "Ficção Científica",
+      "Ação",
+      "Suspense",
+      "Cult"
+    ],
+    "poster": "posters/tt0088247.jpg"
   },
   {
     "nome": "De Volta para Escola",
     "descricao": "Comédia irreverente com Rodney Dangerfield",
     "ano": 1986,
     "criador": "Alan Metter",
-    "link": "https://www.imdb.com/title/tt0090685/"
+    "link": "https://www.imdb.com/title/tt0090685/",
+    "tags": [
+      "Comédia",
+      "Adolescente",
+      "Drama"
+    ],
+    "poster": "posters/tt0090685.jpg"
   },
   {
     "nome": "Tron",
     "descricao": "Pioneiro visual, mergulho literal no mundo digital",
     "ano": 1982,
     "criador": "Steven Lisberger",
-    "link": "https://www.imdb.com/title/tt0084827/"
+    "link": "https://www.imdb.com/title/tt0084827/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Tecnologia",
+      "Cult"
+    ],
+    "poster": "posters/tt0084827.jpg"
   },
   {
     "nome": "O Segredo do Abismo",
     "descricao": "James Cameron explorando o oceano com efeitos revolucionários",
     "ano": 1989,
     "criador": "James Cameron",
-    "link": "https://www.imdb.com/title/tt0096754/"
+    "link": "https://www.imdb.com/title/tt0096754/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Drama",
+      "Oceano"
+    ],
+    "poster": "posters/tt0096754.jpg"
   },
   {
     "nome": "Curtindo a Vida Adoidado",
     "descricao": "John Hughes capturando perfeitamente a adolescência com humor e estilo",
     "ano": 1986,
     "criador": "John Hughes",
-    "link": "https://www.imdb.com/title/tt0091042/"
+    "link": "https://www.imdb.com/title/tt0091042/",
+    "tags": [
+      "Comédia",
+      "Adolescente",
+      "Drama",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0091042.jpg"
   },
   {
     "nome": "Conta Comigo",
     "descricao": "Aventura de verão com substância emocional",
     "ano": 1986,
     "criador": "Rob Reiner",
-    "link": "https://www.imdb.com/title/tt0092005/"
+    "link": "https://www.imdb.com/title/tt0092005/",
+    "tags": [
+      "Drama",
+      "Aventura",
+      "Adolescente",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0092005.jpg"
   },
   {
     "nome": "Império do Sol",
     "descricao": "Spielberg mais dramático, mas com aquela grandiosidade visual",
     "ano": 1987,
     "criador": "Steven Spielberg",
-    "link": "https://www.imdb.com/title/tt0092965/"
+    "link": "https://www.imdb.com/title/tt0092965/",
+    "tags": [
+      "Drama",
+      "Guerra",
+      "Aventura",
+      "Histórico"
+    ],
+    "poster": "posters/tt0092965.jpg"
   },
   {
     "nome": "Beetlejuice",
     "descricao": "Tim Burton no melhor estilo fantasia maluca",
     "ano": 1988,
     "criador": "Tim Burton",
-    "link": "https://www.imdb.com/title/tt0094721/"
+    "link": "https://www.imdb.com/title/tt0094721/",
+    "tags": [
+      "Comédia",
+      "Fantasia",
+      "Sobrenatural",
+      "Cult"
+    ],
+    "poster": "posters/tt0094721.jpg"
   },
   {
     "nome": "De Volta para o Futuro",
     "descricao": "Viagem no tempo icônica com DeLorean, Marty McFly e Doc Brown em aventura perfeita",
     "ano": 1985,
     "criador": "Robert Zemeckis",
-    "link": "https://www.imdb.com/title/tt0088763/"
+    "link": "https://www.imdb.com/title/tt0088763/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Comédia",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0088763.jpg"
   },
   {
     "nome": "De Volta para o Futuro II",
     "descricao": "Sequência ambiciosa explorando futuro e passado alternativo com estilo cyberpunk",
     "ano": 1989,
     "criador": "Robert Zemeckis",
-    "link": "https://www.imdb.com/title/tt0096874/"
+    "link": "https://www.imdb.com/title/tt0096874/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Comédia",
+      "Sequência"
+    ],
+    "poster": "posters/tt0096874.jpg"
   },
   {
     "nome": "De Volta para o Futuro III",
     "descricao": "Finaliza a trilogia no velho oeste com a mesma energia e coração",
     "ano": 1990,
     "criador": "Robert Zemeckis",
-    "link": "https://www.imdb.com/title/tt0099088/"
+    "link": "https://www.imdb.com/title/tt0099088/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Faroeste",
+      "Sequência"
+    ],
+    "poster": "posters/tt0099088.jpg"
   },
   {
     "nome": "Star Wars: Episódio VI - O Retorno de Jedi",
     "descricao": "O retorno triunfal de Luke Skywalker, Leia e Han Solo contra o Império Galáctico, culminando na derrota do Imperador e na redenção de Darth Vader. Influenciou profundamente a construção de franquias cinematográficas.",
-    "ano": "1983",
-    "criador": null,
+    "ano": 1983,
+    "criador": "Richard Marquand",
     "link": "https://www.imdb.com/title/tt0086190/",
     "tags": [
       "Ficção Científica",
       "Aventura",
       "Ópera Espacial",
       "Ação"
-    ]
+    ],
+    "poster": "posters/tt0086190.jpg"
   },
   {
     "nome": "Aliens, O Resgate",
     "descricao": "Ellen Ripley retorna a um planeta colonizado apenas para descobrir que os Xenomorfos dominaram o local. Um marco na mistura de horror e ação militar, dirigido por James Cameron.",
-    "ano": "1986",
-    "criador": null,
+    "ano": 1986,
+    "criador": "James Cameron",
     "link": "https://www.imdb.com/title/tt0090605/",
     "tags": [
       "Ação",
       "Ficção Científica",
       "Horror",
       "Guerra"
-    ]
+    ],
+    "poster": "posters/tt0090605.jpg"
   },
   {
     "nome": "Duro de Matar",
     "descricao": "Um policial de Nova York tenta salvar sua esposa e reféns de terroristas em um prédio de Los Angeles. Define o arquétipo do herói de ação 'homem comum' e revolucionou os filmes de ação de Natal.",
-    "ano": "1988",
-    "criador": null,
+    "ano": 1988,
+    "criador": "John McTiernan",
     "link": "https://www.imdb.com/title/tt0095016/",
     "tags": [
       "Ação",
       "Suspense",
       "Natal",
       "Policial"
-    ]
+    ],
+    "poster": "posters/tt0095016.jpg"
   },
   {
     "nome": "Clube dos Cinco",
     "descricao": "Cinco estudantes de diferentes grupos sociais são forçados a passar um sábado juntos na detenção. Um clássico de John Hughes que definiu a angst e a identidade adolescente da década.",
-    "ano": "1985",
-    "criador": null,
+    "ano": 1985,
+    "criador": "John Hughes",
     "link": "https://www.imdb.com/title/tt0088847/",
     "tags": [
       "Comédia",
       "Drama",
       "Adolescente",
-      "Cultura Pop"
-    ]
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0088847.jpg"
   },
   {
     "nome": "Robocop",
     "descricao": "Em um futuro distópico, um policial morto é transformado em um ciborgue para combater o crime. Uma sátira sombria sobre corporativismo, violência e a natureza humana.",
-    "ano": "1987",
-    "criador": null,
+    "ano": 1987,
+    "criador": "Paul Verhoeven",
     "link": "https://www.imdb.com/title/tt0093870/",
     "tags": [
       "Ação",
       "Ficção Científica",
       "Sátira",
       "Distopia"
-    ]
+    ],
+    "poster": "posters/tt0093870.jpg"
   },
   {
     "nome": "Máquina Mortífera",
     "descricao": "Dois policiais com estilos opostos, um veterano melancólico e um novato impulsivo, são forçados a trabalhar juntos para desvendar uma conspiração de tráfico de drogas. Lançou o subgênero 'buddy cop'.",
-    "ano": "1987",
-    "criador": null,
+    "ano": 1987,
+    "criador": "Richard Donner",
     "link": "https://www.imdb.com/title/tt0093409/",
     "tags": [
       "Ação",
       "Comédia",
       "Policial",
       "Suspense"
-    ]
+    ],
+    "poster": "posters/tt0093409.jpg"
   },
   {
     "nome": "Scarface",
     "descricao": "A ascensão e queda de Tony Montana, um refugiado cubano que se torna um dos maiores chefões do tráfico de drogas em Miami. Um filme seminal sobre ambição e excesso.",
-    "ano": "1983",
-    "criador": null,
+    "ano": 1983,
+    "criador": "Brian De Palma",
     "link": "https://www.imdb.com/title/tt0086250/",
     "tags": [
       "Crime",
       "Drama",
       "Gângster",
       "Cult"
-    ]
+    ],
+    "poster": "posters/tt0086250.jpg"
   },
   {
     "nome": "Apertem os Cintos... O Piloto Sumiu!",
     "descricao": "Uma paródia absurda e frenética dos filmes de desastre aéreos, conhecida por seu humor non-sense e pela rápida sucessão de piadas visuais. Um divisor de águas na comédia moderna.",
-    "ano": "1980",
-    "criador": null,
+    "ano": 1980,
+    "criador": "Jim Abrahams",
     "link": "https://www.imdb.com/title/tt0080339/",
     "tags": [
       "Comédia",
       "Paródia",
       "Cult",
       "Absurdo"
-    ]
+    ],
+    "poster": "posters/tt0080339.jpg"
   },
   {
     "nome": "Touro Indomável",
     "descricao": "A história real e brutal de Jake LaMotta, um boxeador com talento e autodestruição, dirigida por Martin Scorsese. Considerado um dos maiores filmes biográficos já feitos.",
-    "ano": "1980",
-    "criador": null,
+    "ano": 1980,
+    "criador": "Martin Scorsese",
     "link": "https://www.imdb.com/title/tt0081398/",
     "tags": [
       "Drama",
       "Esportes",
       "Biografia",
       "Clássico"
-    ]
+    ],
+    "poster": "posters/tt0081398.jpg"
   },
   {
     "nome": "O Iluminado",
     "descricao": "Um escritor aceita o trabalho de zelador em um hotel isolado durante o inverno, mas lentamente sucumbe à loucura sob a influência de forças sobrenaturais. Um marco do horror psicológico.",
-    "ano": "1980",
-    "criador": null,
+    "ano": 1980,
+    "criador": "Stanley Kubrick",
     "link": "https://www.imdb.com/title/tt0081505/",
     "tags": [
       "Horror",
       "Psicológico",
       "Suspense",
       "Clássico"
-    ]
+    ],
+    "poster": "posters/tt0081505.jpg"
   },
   {
     "nome": "Fuga de Nova York",
     "descricao": "Em 1997, a ilha de Manhattan foi transformada em uma prisão de segurança máxima. Snake Plissken, um criminoso endurecido, é enviado para resgatar o presidente dos EUA.",
-    "ano": "1981",
-    "criador": null,
+    "ano": 1981,
+    "criador": "John Carpenter",
     "link": "https://www.imdb.com/title/tt0082340/",
     "tags": [
       "Ação",
       "Ficção Científica",
       "Distopia",
       "Cult"
-    ]
+    ],
+    "poster": "posters/tt0082340.jpg"
   },
   {
     "nome": "Mad Max 2: A Caçada Continua",
     "descricao": "Em um futuro pós-apocalíptico, Max Rockatansky defende uma comunidade de bandidos motorizados sedentos por gasolina. Um filme que elevou o nível do cinema de ação e cenários desoladores.",
-    "ano": "1981",
-    "criador": null,
+    "ano": 1981,
+    "criador": "George Miller",
     "link": "https://www.imdb.com/title/tt0082694/",
     "tags": [
       "Ação",
       "Pós-Apocalíptico",
       "Aventura",
       "Road Movie"
-    ]
+    ],
+    "poster": "posters/tt0082694.jpg"
   },
   {
     "nome": "Poltergeist",
     "descricao": "Uma família suburbana é aterrorizada por fantasmas em sua nova casa, que se comunicam através da televisão e sequestram a filha mais nova. Clássico do horror sobrenatural familiar.",
-    "ano": "1982",
-    "criador": null,
+    "ano": 1982,
+    "criador": "Tobe Hooper",
     "link": "https://www.imdb.com/title/tt0084516/",
     "tags": [
       "Horror",
       "Sobrenatural",
       "Suspense"
-    ]
+    ],
+    "poster": "posters/tt0084516.jpg"
   },
   {
     "nome": "Jogos de Guerra",
     "descricao": "Um jovem gênio da computação acessa inadvertidamente um sistema militar que simula a Terceira Guerra Mundial, acreditando ser um novo jogo. Reflete os medos da Guerra Fria e a ascensão da cultura hacker.",
-    "ano": "1983",
-    "criador": null,
+    "ano": 1983,
+    "criador": "John Badham",
     "link": "https://www.imdb.com/title/tt0086567/",
     "tags": [
       "Ficção Científica",
       "Suspense",
       "Thriller",
       "Tecnologia"
-    ]
+    ],
+    "poster": "posters/tt0086567.jpg"
   },
   {
     "nome": "Um Tira da Pesada",
     "descricao": "Um detetive de Detroit viaja para Beverly Hills para investigar o assassinato de um amigo, usando métodos pouco convencionais que chocam a polícia local. Estabeleceu Eddie Murphy como astro global.",
-    "ano": "1984",
-    "criador": null,
+    "ano": 1984,
+    "criador": "Martin Brest",
     "link": "https://www.imdb.com/title/tt0086960/",
     "tags": [
       "Comédia",
       "Ação",
       "Policial",
       "Buddy Cop"
-    ]
+    ],
+    "poster": "posters/tt0086960.jpg"
   },
   {
     "nome": "Karate Kid - A Hora da Verdade",
     "descricao": "Um adolescente é ensinado a lutar karatê por um sábio sensei para enfrentar os valentões da escola. Definiu o formato de treinamento e redenção dos filmes de esportes da década.",
-    "ano": "1984",
-    "criador": null,
+    "ano": 1984,
+    "criador": "John G. Avildsen",
     "link": "https://www.imdb.com/title/tt0087538/",
     "tags": [
       "Drama",
       "Esportes",
       "Adolescente",
-      "Aventura"
-    ]
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0087538.jpg"
   },
   {
     "nome": "A Hora do Espanto",
     "descricao": "Um adolescente obcecado por filmes de terror descobre que seu novo vizinho é um vampiro. Uma mistura perfeita de horror teen e comédia, com efeitos práticos marcantes.",
-    "ano": "1985",
-    "criador": null,
+    "ano": 1985,
+    "criador": "Tom Holland",
     "link": "https://www.imdb.com/title/tt0089175/",
     "tags": [
       "Horror",
       "Comédia",
-      "Slasher",
-      "Sobrenatural"
-    ]
+      "Sobrenatural",
+      "Cult"
+    ],
+    "poster": "posters/tt0089175.jpg"
   },
   {
     "nome": "Highlander: O Guerreiro Imortal",
     "descricao": "Um escocês imortal deve lutar contra seu último rival na cidade de Nova York. Famoso por seu conceito de 'Só pode haver um' e sua trilha sonora icônica da banda Queen.",
-    "ano": "1986",
-    "criador": null,
+    "ano": 1986,
+    "criador": "Russell Mulcahy",
     "link": "https://www.imdb.com/title/tt0091203/",
     "tags": [
       "Ação",
       "Fantasia",
       "Aventura",
       "Cult"
-    ]
+    ],
+    "poster": "posters/tt0091203.jpg"
   },
   {
     "nome": "Nascido para Matar",
     "descricao": "Um olhar brutal e sardônico sobre o treinamento e o impacto psicológico da Guerra do Vietnã em recrutas. Dirigido por Stanley Kubrick.",
-    "ano": "1987",
-    "criador": null,
+    "ano": 1987,
+    "criador": "Stanley Kubrick",
     "link": "https://www.imdb.com/title/tt0093058/",
     "tags": [
       "Guerra",
       "Drama",
       "Psicológico",
       "Clássico"
-    ]
+    ],
+    "poster": "posters/tt0093058.jpg"
   },
   {
     "nome": "Uma Cilada Para Roger Rabbit",
     "descricao": "Um detetive particular humano precisa provar a inocência de um desenho animado acusado de assassinato em um mundo onde desenhos e pessoas coexistem. Revolucionou a integração de live-action e animação.",
-    "ano": "1988",
-    "criador": null,
+    "ano": 1988,
+    "criador": "Robert Zemeckis",
     "link": "https://www.imdb.com/title/tt0096438/",
     "tags": [
       "Animação",
       "Comédia",
       "Fantasia",
       "Neo-Noir"
-    ]
+    ],
+    "poster": "posters/tt0096438.jpg"
   },
   {
     "nome": "Rain Man",
     "descricao": "Um egocêntrico herdeiro descobre que tem um irmão autista que herdou toda a fortuna de seu pai. Um drama intenso que ganhou o Oscar e aumentou a conscientização sobre o autismo.",
-    "ano": "1988",
-    "criador": null,
+    "ano": 1988,
+    "criador": "Barry Levinson",
     "link": "https://www.imdb.com/title/tt0095953/",
     "tags": [
       "Drama",
       "Estrada",
       "Comédia Dramática"
-    ]
+    ],
+    "poster": "posters/tt0095953.jpg"
   },
   {
     "nome": "Batman",
     "descricao": "A adaptação gótica e visualmente sombria de Tim Burton, onde Batman enfrenta o Coringa em Gotham City. Reavivou o interesse moderno por filmes de super-heróis sérios.",
-    "ano": "1989",
-    "criador": null,
+    "ano": 1989,
+    "criador": "Tim Burton",
     "link": "https://www.imdb.com/title/tt0096895/",
     "tags": [
       "Super-Herói",
       "Ação",
       "Gótico",
       "Aventura"
-    ]
+    ],
+    "poster": "posters/tt0096895.jpg"
   },
   {
     "nome": "Sociedade dos Poetas Mortos",
     "descricao": "Um professor de inglês não convencional inspira um grupo de alunos em uma escola preparatória conservadora a 'fazer suas vidas extraordinárias'. Vencedor do Oscar de Melhor Roteiro Original.",
-    "ano": "1989",
-    "criador": null,
+    "ano": 1989,
+    "criador": "Peter Weir",
     "link": "https://www.imdb.com/title/tt0097165/",
     "tags": [
       "Drama",
       "Adolescente",
       "Clássico",
       "Inspiração"
-    ]
+    ],
+    "poster": "posters/tt0097165.jpg"
   },
   {
     "nome": "Matador de Aluguel",
     "descricao": "Um 'cooler' profissional, especialista em tirar brigas de bares, é contratado para manter a ordem em um bar de beira de estrada em Missouri. Um clássico de ação B com Patrick Swayze.",
-    "ano": "1989",
-    "criador": null,
+    "ano": 1989,
+    "criador": "Rowdy Herrington",
     "link": "https://www.imdb.com/title/tt0098205/",
     "tags": [
       "Ação",
       "Luta",
       "Drama",
       "Cult"
-    ]
+    ],
+    "poster": "posters/tt0098205.jpg"
   },
   {
     "nome": "Harry e Sally - Feitos Um Para o Outro",
     "descricao": "A história de amor moderna que define o gênero da comédia romântica, seguindo a relação de Harry e Sally ao longo de uma década, debatendo se homens e mulheres podem ser apenas amigos.",
-    "ano": "1989",
-    "criador": null,
+    "ano": 1989,
+    "criador": "Rob Reiner",
     "link": "https://www.imdb.com/title/tt0098635/",
     "tags": [
       "Comédia",
       "Romance",
       "Clássico",
       "Drama"
+    ],
+    "poster": "posters/tt0098635.jpg"
+  },
+  {
+    "nome": "A Lagoa Azul",
+    "descricao": "Dois primos naufragam numa ilha deserta na infância e crescem isolados, desenvolvendo um amor proibido. Um dos filmes mais reprisados da história da Sessão da Tarde, com trilha sonora marcante.",
+    "ano": 1980,
+    "criador": "Randal Kleiser",
+    "link": "https://www.imdb.com/title/tt0080707/",
+    "tags": [
+      "Romance",
+      "Aventura",
+      "Drama",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0080707.jpg"
+  },
+  {
+    "nome": "Splash – Uma Sereia em Minha Vida",
+    "descricao": "Um homem se apaixona por uma misteriosa mulher em Nova York sem saber que ela é uma sereia. Comédia romântica de Tom Hanks que inaugurou a fórmula da fantasia romântica anos 80.",
+    "ano": 1984,
+    "criador": "Ron Howard",
+    "link": "https://www.imdb.com/title/tt0088161/",
+    "tags": [
+      "Romance",
+      "Comédia",
+      "Fantasia",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0088161.jpg"
+  },
+  {
+    "nome": "Mulher Nota 1000",
+    "descricao": "Dois nerds usam um computador para criar a mulher perfeita e acabam desencadeando uma série de situações absurdas. John Hughes no melhor da comédia adolescente anos 80.",
+    "ano": 1985,
+    "criador": "John Hughes",
+    "link": "https://www.imdb.com/title/tt0090305/",
+    "tags": [
+      "Comédia",
+      "Adolescente",
+      "Ficção Científica",
+      "Cult"
+    ],
+    "poster": "posters/tt0090305.jpg"
+  },
+  {
+    "nome": "A Garota de Rosa-Shocking",
+    "descricao": "Uma garota de classe baixa se apaixona por um garoto popular, navegando as rígidas hierarquias sociais do colegial. Molly Ringwald no auge, em mais um clássico de John Hughes.",
+    "ano": 1986,
+    "criador": "Howard Deutch",
+    "link": "https://www.imdb.com/title/tt0091830/",
+    "tags": [
+      "Romance",
+      "Drama",
+      "Adolescente",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0091830.jpg"
+  },
+  {
+    "nome": "Dirty Dancing – Ritmo Quente",
+    "descricao": "Uma jovem numa colônia de férias se apaixona pelo instrutor de dança e descobre sua própria voz. Patrick Swayze e Jennifer Grey criaram uma das maiores histórias de amor do cinema.",
+    "ano": 1987,
+    "criador": "Emile Ardolino",
+    "link": "https://www.imdb.com/title/tt0092890/",
+    "tags": [
+      "Romance",
+      "Drama",
+      "Dança",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0092890.jpg"
+  },
+  {
+    "nome": "Namorada de Aluguel",
+    "descricao": "Um adolescente paga à garota mais popular da escola para fingir ser sua namorada, mas acaba se apaixonando de verdade. Comédia romântica adolescente clássica dos anos 80.",
+    "ano": 1987,
+    "criador": "Steve Rash",
+    "link": "https://www.imdb.com/title/tt0092671/",
+    "tags": [
+      "Romance",
+      "Comédia",
+      "Adolescente",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0092671.jpg"
+  },
+  {
+    "nome": "Uma Noite de Aventuras",
+    "descricao": "Uma babá leva as crianças que cuida por uma noite agitada em Chicago cheia de gangues, musicais e aventuras inesperadas. Diversão juvenil com Chris Columbus na direção.",
+    "ano": 1987,
+    "criador": "Chris Columbus",
+    "link": "https://www.imdb.com/title/tt0092513/",
+    "tags": [
+      "Comédia",
+      "Aventura",
+      "Família",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0092513.jpg"
+  },
+  {
+    "nome": "Te Pego Lá Fora",
+    "descricao": "Um garoto popular percebe que está apaixonado pela amiga de infância enquanto corteja a garota mais bonita da escola. John Hughes escreveu, Howard Deutch dirigiu: mais um clássico teen dos 80.",
+    "ano": 1987,
+    "criador": "Howard Deutch",
+    "link": "https://www.imdb.com/title/tt0093887/",
+    "tags": [
+      "Romance",
+      "Drama",
+      "Adolescente",
+      "Sessão da Tarde"
     ]
+  },
+  {
+    "nome": "Um Príncipe em Nova York",
+    "descricao": "Um príncipe africano vai a Queens, Nova York, para encontrar uma esposa que o ame por quem ele é, não pela coroa. Eddie Murphy em uma de suas melhores performances cômicas.",
+    "ano": 1988,
+    "criador": "John Landis",
+    "link": "https://www.imdb.com/title/tt0094898/",
+    "tags": [
+      "Comédia",
+      "Romance",
+      "Cult",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0094898.jpg"
+  },
+  {
+    "nome": "Querida, Encolhi as Crianças",
+    "descricao": "Um inventor acidentalmente miniaturiza seus filhos e os joga no lixo, forçando as crianças a sobreviver no jardim transformado numa selva gigante. Aventura familiar Disney dos 80.",
+    "ano": 1989,
+    "criador": "Joe Johnston",
+    "link": "https://www.imdb.com/title/tt0097523/",
+    "tags": [
+      "Aventura",
+      "Família",
+      "Comédia",
+      "Ficção Científica"
+    ],
+    "poster": "posters/tt0097523.jpg"
+  },
+  {
+    "nome": "Ghost – Do Outro Lado da Vida",
+    "descricao": "Um homem assassinado retorna como fantasma para proteger a amada e desvendar sua própria morte. O romance mais reprisado da história da Sessão da Tarde, com a icônica cena do barro.",
+    "ano": 1990,
+    "criador": "Jerry Zucker",
+    "link": "https://www.imdb.com/title/tt0099653/",
+    "tags": [
+      "Romance",
+      "Sobrenatural",
+      "Drama",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0099653.jpg"
+  },
+  {
+    "nome": "Esqueceram de Mim",
+    "descricao": "Um menino de 8 anos é acidentalmente deixado sozinho em casa no Natal e precisa defender a casa de dois ladrões. Chris Columbus e John Hughes criaram a maior comédia familiar dos anos 90.",
+    "ano": 1990,
+    "criador": "Chris Columbus",
+    "link": "https://www.imdb.com/title/tt0099785/",
+    "tags": [
+      "Comédia",
+      "Família",
+      "Natal",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0099785.jpg"
+  },
+  {
+    "nome": "Um Tira no Jardim de Infância",
+    "descricao": "Um detetive durão disfarçado de professor de jardim de infância tenta localizar o filho de uma criminosa. Schwarzenegger em modo comédia, resultado surpreendentemente encantador.",
+    "ano": 1990,
+    "criador": "Ivan Reitman",
+    "link": "https://www.imdb.com/title/tt0099938/",
+    "tags": [
+      "Comédia",
+      "Ação",
+      "Família",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0099938.jpg"
+  },
+  {
+    "nome": "Edward Mãos de Tesoura",
+    "descricao": "Um ser artificial com tesouras no lugar das mãos é levado para viver numa comunidade suburbana e se apaixona pela filha da família que o acolheu. Tim Burton no auge da poesia visual.",
+    "ano": 1990,
+    "criador": "Tim Burton",
+    "link": "https://www.imdb.com/title/tt0099487/",
+    "tags": [
+      "Fantasia",
+      "Romance",
+      "Drama",
+      "Cult"
+    ],
+    "poster": "posters/tt0099487.jpg"
+  },
+  {
+    "nome": "Os Bons Companheiros",
+    "descricao": "A ascensão e queda de Henry Hill na máfia de Nova York ao longo de três décadas. Scorsese no melhor do cinema de gangster, com narração revolucionária e ritmo avassalador.",
+    "ano": 1990,
+    "criador": "Martin Scorsese",
+    "link": "https://www.imdb.com/title/tt0099685/",
+    "tags": [
+      "Crime",
+      "Drama",
+      "Gângster",
+      "Clássico"
+    ],
+    "poster": "posters/tt0099685.jpg"
+  },
+  {
+    "nome": "Convenção das Bruxas",
+    "descricao": "Uma bruxa suprema convoca um congresso anual com o plano de transformar todas as crianças do mundo em ratos. Anjelica Huston assustando gerações de crianças numa tarde de sábado.",
+    "ano": 1990,
+    "criador": "Nicolas Roeg",
+    "link": "https://www.imdb.com/title/tt0100944/",
+    "tags": [
+      "Fantasia",
+      "Horror",
+      "Família",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0100944.jpg"
+  },
+  {
+    "nome": "O Silêncio dos Inocentes",
+    "descricao": "Uma agente do FBI recruta o serial killer canibal Hannibal Lecter para ajudar a capturar outro assassino em série. Thriller psicológico que venceu os cinco principais Oscar de 1992.",
+    "ano": 1991,
+    "criador": "Jonathan Demme",
+    "link": "https://www.imdb.com/title/tt0102926/",
+    "tags": [
+      "Thriller",
+      "Suspense",
+      "Psicológico",
+      "Clássico"
+    ],
+    "poster": "posters/tt0102926.jpg"
+  },
+  {
+    "nome": "Meu Primeiro Amor",
+    "descricao": "Uma garota de 11 anos descobre o amor, a perda e a passagem para a adolescência num verão que muda tudo. Com Macaulay Culkin e Anna Chlumsky, fez chorar uma geração inteira na Sessão da Tarde.",
+    "ano": 1991,
+    "criador": "Howard Zieff",
+    "link": "https://www.imdb.com/title/tt0102492/",
+    "tags": [
+      "Drama",
+      "Romance",
+      "Adolescente",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0102492.jpg"
+  },
+  {
+    "nome": "De Volta à Lagoa Azul",
+    "descricao": "Continuação da história da lagoa isolada, com dois jovens crescendo sozinhos numa ilha tropical descobrindo o amor. Aproveitou toda a nostalgia do original para conquistar a Sessão da Tarde.",
+    "ano": 1991,
+    "criador": "William A. Graham",
+    "link": "https://www.imdb.com/title/tt0102816/",
+    "tags": [
+      "Romance",
+      "Aventura",
+      "Drama",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0102816.jpg"
+  },
+  {
+    "nome": "Uma Babá Quase Perfeita",
+    "descricao": "Um pai divorciado se disfarça de babá idosa para ficar perto dos filhos. Robin Williams em performance antológica, misturando comédia, emoção e uma crítica terna à família moderna.",
+    "ano": 1993,
+    "criador": "Chris Columbus",
+    "link": "https://www.imdb.com/title/tt0107614/",
+    "tags": [
+      "Comédia",
+      "Família",
+      "Drama",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0107614.jpg"
+  },
+  {
+    "nome": "O Feitiço do Tempo",
+    "descricao": "Um meteorologista cínico revive o mesmo dia repetidamente até aprender a ser uma pessoa melhor. Bill Murray e Harold Ramis criaram uma das comédias filosóficas mais inteligentes do cinema.",
+    "ano": 1993,
+    "criador": "Harold Ramis",
+    "link": "https://www.imdb.com/title/tt0107048/",
+    "tags": [
+      "Comédia",
+      "Fantasia",
+      "Romance",
+      "Cult"
+    ],
+    "poster": "posters/tt0107048.jpg"
+  },
+  {
+    "nome": "Parque dos Dinossauros",
+    "descricao": "Um parque temático com dinossauros clonados entra em colapso quando os animais fogem do controle. Spielberg redefiniu os efeitos especiais e o cinema de aventura para sempre.",
+    "ano": 1993,
+    "criador": "Steven Spielberg",
+    "link": "https://www.imdb.com/title/tt0107290/",
+    "tags": [
+      "Aventura",
+      "Ficção Científica",
+      "Suspense",
+      "Cult"
+    ],
+    "poster": "posters/tt0107290.jpg"
+  },
+  {
+    "nome": "A Lista de Schindler",
+    "descricao": "A história real de Oskar Schindler, um industrial alemão que salvou mais de 1.000 judeus durante o Holocausto. O filme mais importante de Spielberg, em preto e branco devastador.",
+    "ano": 1993,
+    "criador": "Steven Spielberg",
+    "link": "https://www.imdb.com/title/tt0108052/",
+    "tags": [
+      "Drama",
+      "Guerra",
+      "Histórico",
+      "Clássico"
+    ],
+    "poster": "posters/tt0108052.jpg"
+  },
+  {
+    "nome": "André, Uma Foca em Minha Casa",
+    "descricao": "Uma família adota um filhote de foca que cresce e se torna parte da família, enfrentando pressões dos pescadores locais. Filme familiar que marcou gerações na Sessão da Tarde.",
+    "ano": 1994,
+    "criador": "George T. Miller",
+    "link": "https://www.imdb.com/title/tt0109212/",
+    "tags": [
+      "Família",
+      "Aventura",
+      "Drama",
+      "Sessão da Tarde"
+    ]
+  },
+  {
+    "nome": "Pulp Fiction",
+    "descricao": "Histórias entrelaçadas de criminosos, boxeadores e gangsters em Los Angeles, contadas em ordem não linear. Tarantino redefiniu o cinema independente e a cultura pop dos anos 90.",
+    "ano": 1994,
+    "criador": "Quentin Tarantino",
+    "link": "https://www.imdb.com/title/tt0110912/",
+    "tags": [
+      "Crime",
+      "Drama",
+      "Cult",
+      "Neo-Noir"
+    ],
+    "poster": "posters/tt0110912.jpg"
+  },
+  {
+    "nome": "Forrest Gump",
+    "descricao": "Um homem simples do Alabama atravessa décadas de história americana sem perceber que está no centro de tudo. Tom Hanks venceu o Oscar e entrou para sempre na cultura popular.",
+    "ano": 1994,
+    "criador": "Robert Zemeckis",
+    "link": "https://www.imdb.com/title/tt0109830/",
+    "tags": [
+      "Drama",
+      "Comédia",
+      "Histórico",
+      "Clássico"
+    ],
+    "poster": "posters/tt0109830.jpg"
+  },
+  {
+    "nome": "Jumanji",
+    "descricao": "Um jogo de tabuleiro mágico libera animais selvagens e perigos tropicais no mundo real. Robin Williams numa aventura que mistura fantasia e tensão de um jeito que grudou na memória de toda uma geração.",
+    "ano": 1995,
+    "criador": "Joe Johnston",
+    "link": "https://www.imdb.com/title/tt0113497/",
+    "tags": [
+      "Aventura",
+      "Fantasia",
+      "Família",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0113497.jpg"
+  },
+  {
+    "nome": "As Patricinhas de Beverly Hills",
+    "descricao": "Uma adolescente rica e popular de Beverly Hills aprende lições sobre moda, amor e crescimento. Comédia sharp que definiu a estética e o vocabulário da adolescência americana dos anos 90.",
+    "ano": 1995,
+    "criador": "Amy Heckerling",
+    "link": "https://www.imdb.com/title/tt0112697/",
+    "tags": [
+      "Comédia",
+      "Romance",
+      "Adolescente",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0112697.jpg"
+  },
+  {
+    "nome": "Toy Story",
+    "descricao": "Os brinquedos de um menino ganham vida quando humanos não estão por perto, e o cowboy Woody precisa aceitar o novo astronauta Buzz. O primeiro longa 100% digital da Pixar revolucionou a animação.",
+    "ano": 1995,
+    "criador": "John Lasseter",
+    "link": "https://www.imdb.com/title/tt0114709/",
+    "tags": [
+      "Animação",
+      "Aventura",
+      "Família",
+      "Cult"
+    ],
+    "poster": "posters/tt0114709.jpg"
+  },
+  {
+    "nome": "101 Dálmatas",
+    "descricao": "Uma vilã obcecada em fazer um casaco de pele de dálmata sequestra uma ninhada inteira de cachorros. Glenn Close como Cruela De Vil em atuação icônica no remake live-action do clássico Disney.",
+    "ano": 1996,
+    "criador": "Stephen Herek",
+    "link": "https://www.imdb.com/title/tt0114702/",
+    "tags": [
+      "Família",
+      "Aventura",
+      "Comédia",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0114702.jpg"
+  },
+  {
+    "nome": "Matilda",
+    "descricao": "Uma menina superdotada e com poderes telecinéticos sobrevive a pais negligentes e uma diretora tirânica, encontrando refúgio na professora que a ama. A melhor adaptação de Roald Dahl para o cinema.",
+    "ano": 1996,
+    "criador": "Danny DeVito",
+    "link": "https://www.imdb.com/title/tt0117008/",
+    "tags": [
+      "Família",
+      "Fantasia",
+      "Comédia",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0117008.jpg"
+  },
+  {
+    "nome": "Matrix",
+    "descricao": "Um hacker descobre que a realidade é uma simulação criada por máquinas para escravizar a humanidade. As Wachowski criaram uma das ficções científicas mais influentes da história do cinema.",
+    "ano": 1999,
+    "criador": "Lana e Lilly Wachowski",
+    "link": "https://www.imdb.com/title/tt0133093/",
+    "tags": [
+      "Ficção Científica",
+      "Ação",
+      "Distopia",
+      "Cult"
+    ],
+    "poster": "posters/tt0133093.jpg"
+  },
+  {
+    "nome": "Clube da Luta",
+    "descricao": "Um executivo insone e um vendedor de sabão carismático fundam um clube de luta secreto que evolui para algo muito mais sombrio. David Fincher com um dos maiores twists da história do cinema.",
+    "ano": 1999,
+    "criador": "David Fincher",
+    "link": "https://www.imdb.com/title/tt0137523/",
+    "tags": [
+      "Drama",
+      "Thriller",
+      "Psicológico",
+      "Cult"
+    ],
+    "poster": "posters/tt0137523.jpg"
+  },
+  {
+    "nome": "O Sexto Sentido",
+    "descricao": "Um psiquiatra trata um menino atormentado que afirma ver e conversar com os mortos. M. Night Shyamalan com o twist final mais discutido dos anos 90, que muda tudo que você acabou de ver.",
+    "ano": 1999,
+    "criador": "M. Night Shyamalan",
+    "link": "https://www.imdb.com/title/tt0167404/",
+    "tags": [
+      "Suspense",
+      "Sobrenatural",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "posters/tt0167404.jpg"
+  },
+  {
+    "nome": "Gladiador",
+    "descricao": "Um general romano é traído, escravizado e forçado a lutar como gladiador, alimentado pela vingança contra o imperador que destruiu sua família. Ridley Scott ressuscitou o épico histórico no cinema.",
+    "ano": 2000,
+    "criador": "Ridley Scott",
+    "link": "https://www.imdb.com/title/tt0172495/",
+    "tags": [
+      "Ação",
+      "Drama",
+      "Histórico",
+      "Épico"
+    ],
+    "poster": "posters/tt0172495.jpg"
+  },
+  {
+    "nome": "Memento",
+    "descricao": "Um homem com amnésia anterógrada caça o assassino de sua esposa usando polaroides e tatuagens. Nolan conta a história de trás para frente, criando um dos filmes mais inventivos já feitos.",
+    "ano": 2000,
+    "criador": "Christopher Nolan",
+    "link": "https://www.imdb.com/title/tt0209144/",
+    "tags": [
+      "Thriller",
+      "Suspense",
+      "Neo-Noir",
+      "Cult"
+    ],
+    "poster": "posters/tt0209144.jpg"
+  },
+  {
+    "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+    "descricao": "Um hobbit herda um anel de poder e parte numa jornada épica para destruí-lo antes que o Senhor das Trevas domine a Terra-Média. Peter Jackson adaptou Tolkien com escala e emoção inesquecíveis.",
+    "ano": 2001,
+    "criador": "Peter Jackson",
+    "link": "https://www.imdb.com/title/tt0120737/",
+    "tags": [
+      "Fantasia",
+      "Aventura",
+      "Épico",
+      "Clássico"
+    ],
+    "poster": "posters/tt0120737.jpg"
+  },
+  {
+    "nome": "Serendipidade – Encontro de Amor",
+    "descricao": "Dois desconhecidos têm um encontro mágico em Nova York e decidem deixar o destino escolher se vão se reencontrar. Romance leve e charmoso que definiu a fórmula do filme romântico dos anos 2000.",
+    "ano": 2001,
+    "criador": "Peter Chelsom",
+    "link": "https://www.imdb.com/title/tt0240890/",
+    "tags": [
+      "Romance",
+      "Comédia",
+      "Drama",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0240890.jpg"
+  },
+  {
+    "nome": "Cidade de Deus",
+    "descricao": "A história de tráfico, violência e sobrevivência numa favela do Rio de Janeiro ao longo de duas décadas, narrada pelo jovem fotógrafo Buscapé. Um dos maiores filmes brasileiros de todos os tempos.",
+    "ano": 2002,
+    "criador": "Fernando Meirelles",
+    "link": "https://www.imdb.com/title/tt0317248/",
+    "tags": [
+      "Crime",
+      "Drama",
+      "Brasileiro",
+      "Clássico"
+    ],
+    "poster": "posters/tt0317248.jpg"
+  },
+  {
+    "nome": "O Senhor dos Anéis: O Retorno do Rei",
+    "descricao": "O capítulo final da trilogia, com a batalha definitiva pelo destino da Terra-Média. Venceu 11 Oscar, empatando com Ben-Hur e Titanic como o filme mais premiado da história.",
+    "ano": 2003,
+    "criador": "Peter Jackson",
+    "link": "https://www.imdb.com/title/tt0167260/",
+    "tags": [
+      "Fantasia",
+      "Aventura",
+      "Épico",
+      "Clássico"
+    ],
+    "poster": "posters/tt0167260.jpg"
+  },
+  {
+    "nome": "De Repente 30",
+    "descricao": "Uma garota de 13 anos acorda com 30 anos num corpo adulto e precisa reconstruir sua vida e resgatar a amizade perdida. Jennifer Garner carismática num dos maiores sucessos de Sessão da Tarde dos anos 2000.",
+    "ano": 2004,
+    "criador": "Gary Winick",
+    "link": "https://www.imdb.com/title/tt0337563/",
+    "tags": [
+      "Romance",
+      "Comédia",
+      "Fantasia",
+      "Sessão da Tarde"
+    ],
+    "poster": "posters/tt0337563.jpg"
+  },
+  {
+    "nome": "O Labirinto do Fauno",
+    "descricao": "Na Espanha pós-Guerra Civil, uma menina escapa da realidade brutal em um labirinto mágico habitado por criaturas fantásticas. Guillermo del Toro no equilíbrio perfeito entre fábula e drama de guerra.",
+    "ano": 2006,
+    "criador": "Guillermo del Toro",
+    "link": "https://www.imdb.com/title/tt0457430/",
+    "tags": [
+      "Fantasia",
+      "Drama",
+      "Guerra",
+      "Cult"
+    ],
+    "poster": "posters/tt0457430.jpg"
+  },
+  {
+    "nome": "Onde os Fracos Não Têm Vez",
+    "descricao": "Um caçador encontra uma mala com dois milhões de dólares no deserto do Texas e desencadeia uma caçada implacável por um assassino sem remorso. Os Coen Brothers no auge da tensão sem alívio.",
+    "ano": 2007,
+    "criador": "Joel e Ethan Coen",
+    "link": "https://www.imdb.com/title/tt0477348/",
+    "tags": [
+      "Thriller",
+      "Western",
+      "Crime",
+      "Clássico"
+    ],
+    "poster": "posters/tt0477348.jpg"
+  },
+  {
+    "nome": "Wall-E",
+    "descricao": "Um robô solitário que limpa a Terra abandonada se apaixona por uma robô exploradora e acaba salvando o futuro da humanidade. A Pixar no auge da poesia visual com pouquíssimos diálogos.",
+    "ano": 2008,
+    "criador": "Andrew Stanton",
+    "link": "https://www.imdb.com/title/tt0910970/",
+    "tags": [
+      "Animação",
+      "Ficção Científica",
+      "Romance",
+      "Família"
+    ],
+    "poster": "posters/tt0910970.jpg"
+  },
+  {
+    "nome": "O Cavaleiro das Trevas",
+    "descricao": "Batman enfrenta o Coringa, um agente do caos que ameaça destruir Gotham City. Heath Ledger em atuação lendária, Nolan transformando um filme de super-herói em estudo filosófico sobre o bem e o mal.",
+    "ano": 2008,
+    "criador": "Christopher Nolan",
+    "link": "https://www.imdb.com/title/tt0468569/",
+    "tags": [
+      "Super-Herói",
+      "Ação",
+      "Thriller",
+      "Clássico"
+    ],
+    "poster": "posters/tt0468569.jpg"
+  },
+  {
+    "nome": "Bastardos Inglórios",
+    "descricao": "Um grupo de soldados judeu-americanos semeia o terror na Europa ocupada pelos nazistas, em paralelo a um plano de assassinato da cúpula do Terceiro Reich. Tarantino reescreve a história com estilo.",
+    "ano": 2009,
+    "criador": "Quentin Tarantino",
+    "link": "https://www.imdb.com/title/tt0361748/",
+    "tags": [
+      "Guerra",
+      "Drama",
+      "Ação",
+      "Cult"
+    ],
+    "poster": "posters/tt0361748.jpg"
+  },
+  {
+    "nome": "A Origem",
+    "descricao": "Um ladrão especializado em roubar segredos das mentes alheias durante o sono recebe a missão impossível de implantar uma ideia. Nolan construiu um quebra-cabeça de múltiplas realidades que ainda gera debate.",
+    "ano": 2010,
+    "criador": "Christopher Nolan",
+    "link": "https://www.imdb.com/title/tt1375666/",
+    "tags": [
+      "Ficção Científica",
+      "Ação",
+      "Thriller",
+      "Cult"
+    ],
+    "poster": "posters/tt1375666.jpg"
+  },
+  {
+    "nome": "Whiplash",
+    "descricao": "Um jovem baterista ambicioso enfrenta um instrutor de jazz abusivo e obsessivo em busca da perfeição. Damien Chazelle e Miles Teller entregam um duelo de vontades que consome o espectador.",
+    "ano": 2014,
+    "criador": "Damien Chazelle",
+    "link": "https://www.imdb.com/title/tt2582802/",
+    "tags": [
+      "Drama",
+      "Música",
+      "Thriller",
+      "Indie"
+    ],
+    "poster": "posters/tt2582802.jpg"
+  },
+  {
+    "nome": "Interestelar",
+    "descricao": "Astronautas viajam por um buraco de minhoca em busca de um novo lar para a humanidade enquanto a Terra se extingue. Nolan mistura ciência real, amor paternal e relatividade em escala épica.",
+    "ano": 2014,
+    "criador": "Christopher Nolan",
+    "link": "https://www.imdb.com/title/tt0816692/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Drama",
+      "Épico"
+    ],
+    "poster": "posters/tt0816692.jpg"
+  },
+  {
+    "nome": "Mad Max: Estrada da Fúria",
+    "descricao": "Uma perseguição de carro sem fim no deserto pós-apocalíptico com Furiosa tentando libertar mulheres escravizadas. George Miller voltou três décadas depois e entregou o melhor filme de ação do século.",
+    "ano": 2015,
+    "criador": "George Miller",
+    "link": "https://www.imdb.com/title/tt1392190/",
+    "tags": [
+      "Ação",
+      "Pós-Apocalíptico",
+      "Aventura",
+      "Cult"
+    ],
+    "poster": "posters/tt1392190.jpg"
+  },
+  {
+    "nome": "La La Land",
+    "descricao": "Uma atriz e um músico de jazz se apaixonam em Los Angeles enquanto perseguem seus sonhos impossíveis. Damien Chazelle ressuscitou o musical com nostalgia, cores e uma tristeza bonita no final.",
+    "ano": 2016,
+    "criador": "Damien Chazelle",
+    "link": "https://www.imdb.com/title/tt3783958/",
+    "tags": [
+      "Romance",
+      "Musical",
+      "Drama",
+      "Indie"
+    ],
+    "poster": "posters/tt3783958.jpg"
+  },
+  {
+    "nome": "Blade Runner 2049",
+    "descricao": "Um blade runner descobre um segredo que pode mudar tudo que se sabe sobre replicantes e começa a questionar sua própria existência. Denis Villeneuve expandiu o universo do original com beleza fotográfica única.",
+    "ano": 2017,
+    "criador": "Denis Villeneuve",
+    "link": "https://www.imdb.com/title/tt1856101/",
+    "tags": [
+      "Ficção Científica",
+      "Neo-Noir",
+      "Distopia",
+      "Cult"
+    ],
+    "poster": "posters/tt1856101.jpg"
+  },
+  {
+    "nome": "Corra!",
+    "descricao": "Um jovem negro visita os pais brancos da namorada e percebe que algo sinistro está acontecendo. Jordan Peele estreou na direção com um horror social que disseca o racismo americano com precisão cirúrgica.",
+    "ano": 2017,
+    "criador": "Jordan Peele",
+    "link": "https://www.imdb.com/title/tt5052448/",
+    "tags": [
+      "Horror",
+      "Suspense",
+      "Social",
+      "Thriller"
+    ],
+    "poster": "posters/tt5052448.jpg"
+  },
+  {
+    "nome": "Roma",
+    "descricao": "A vida de uma empregada doméstica indígena numa família de classe média da Cidade do México nos anos 70. Alfonso Cuarón filma em preto e branco com cenas de beleza e dor absolutamente silenciosas.",
+    "ano": 2018,
+    "criador": "Alfonso Cuarón",
+    "link": "https://www.imdb.com/title/tt6155172/",
+    "tags": [
+      "Drama",
+      "Histórico",
+      "Indie",
+      "Clássico"
+    ],
+    "poster": "posters/tt6155172.jpg"
+  },
+  {
+    "nome": "Parasita",
+    "descricao": "Uma família pobre se infiltra aos poucos na vida de uma família rica, desencadeando consequências imprevisíveis. Bong Joon-ho ganhou o Oscar de Melhor Filme quebrando a barreira histórica do cinema sul-coreano.",
+    "ano": 2019,
+    "criador": "Bong Joon-ho",
+    "link": "https://www.imdb.com/title/tt6751668/",
+    "tags": [
+      "Drama",
+      "Thriller",
+      "Social",
+      "Clássico"
+    ],
+    "poster": "posters/tt6751668.jpg"
+  },
+  {
+    "nome": "Coringa",
+    "descricao": "A origem de Arthur Fleck, um comediante fracassado que se transforma no mais icônico vilão dos quadrinhos. Joaquin Phoenix em atuação devastadora num estudo de isolamento social e colapso mental.",
+    "ano": 2019,
+    "criador": "Todd Phillips",
+    "link": "https://www.imdb.com/title/tt7286456/",
+    "tags": [
+      "Drama",
+      "Thriller",
+      "Psicológico",
+      "Super-Herói"
+    ],
+    "poster": "posters/tt7286456.jpg"
+  },
+  {
+    "nome": "Nomadland",
+    "descricao": "Uma mulher viúva vende tudo e parte numa van pela América, vivendo como nômade moderna entre comunidades de trabalhadores itinerantes. Chloé Zhao venceu o Oscar com um ensaio visual sobre perda e liberdade.",
+    "ano": 2020,
+    "criador": "Chloé Zhao",
+    "link": "https://www.imdb.com/title/tt9770150/",
+    "tags": [
+      "Drama",
+      "Indie",
+      "Road Movie",
+      "Clássico"
+    ],
+    "poster": "posters/tt9770150.jpg"
+  },
+  {
+    "nome": "Duna",
+    "descricao": "O jovem Paul Atreides chega ao planeta desértico Arrakis, o único lugar no universo onde existe a especiaria mais valiosa de todos. Denis Villeneuve realizou a adaptação que parecia impossível com grandiosidade épica.",
+    "ano": 2021,
+    "criador": "Denis Villeneuve",
+    "link": "https://www.imdb.com/title/tt1160419/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Épico",
+      "Fantasia"
+    ],
+    "poster": "posters/tt1160419.jpg"
+  },
+  {
+    "nome": "Tudo em Todo Lugar ao Mesmo Tempo",
+    "descricao": "Uma lavanderia chinesa descobre que pode acessar universos paralelos e precisa salvar o multiverso enquanto resolve seus problemas com a filha e o fisco. Venceu 7 Oscar com criatividade anárquica e emoção genuína.",
+    "ano": 2022,
+    "criador": "Daniel Kwan e Daniel Scheinert",
+    "link": "https://www.imdb.com/title/tt6710474/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Comédia",
+      "Cult"
+    ],
+    "poster": "posters/tt6710474.jpg"
+  },
+  {
+    "nome": "Oppenheimer",
+    "descricao": "A biografia de J. Robert Oppenheimer, o físico que liderou o Projeto Manhattan e criou a bomba atômica. Nolan em escala máxima: três horas sobre o homem que mudou o mundo e carregou esse peso para sempre.",
+    "ano": 2023,
+    "criador": "Christopher Nolan",
+    "link": "https://www.imdb.com/title/tt15398776/",
+    "tags": [
+      "Drama",
+      "Histórico",
+      "Biografia",
+      "Épico"
+    ],
+    "poster": "posters/tt15398776.jpg"
+  },
+  {
+    "nome": "Barbie",
+    "descricao": "Barbie é expulsa do paraíso plástico de Barbieland ao começar a pensar na morte e parte para o mundo real descobrir o que é ser humano. Greta Gerwig transformou um brinquedo numa crítica feminista brilhante e divertida.",
+    "ano": 2023,
+    "criador": "Greta Gerwig",
+    "link": "https://www.imdb.com/title/tt1517268/",
+    "tags": [
+      "Comédia",
+      "Fantasia",
+      "Drama",
+      "Cult"
+    ],
+    "poster": "posters/tt1517268.jpg"
+  },
+  {
+    "nome": "Duna: Parte 2",
+    "descricao": "Paul Atreides se alia aos Fremen para liderar uma guerra de libertação em Arrakis enquanto cumpre uma profecia que pode destruir o universo. Villeneuve concluiu com ainda mais escala e coragem narrativa.",
+    "ano": 2024,
+    "criador": "Denis Villeneuve",
+    "link": "https://www.imdb.com/title/tt15239678/",
+    "tags": [
+      "Ficção Científica",
+      "Aventura",
+      "Épico",
+      "Fantasia"
+    ],
+    "poster": "posters/tt15239678.jpg"
   }
 ]

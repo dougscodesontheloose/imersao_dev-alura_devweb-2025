@@ -1,15 +1,52 @@
 /* ✨ SYNTHWAVE AESTHETIC - Anos 80 Cyberpunk ✨ */
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 
-/* Variáveis CSS - Paleta Synthwave */
+/* ✨ THEME SYSTEM ✨ */
 :root {
-    --primary-color: #ff4fd8;      /* Neon magenta (synthwave highlight) */
-    --secondary-color: #f0e6ff;    /* Pale lavender for text */
-    --tertiary-color: #00f0ff;     /* Neon cyan accent */
-    --accent-color: #ff4fd8;       /* Alias for highlights */
-    --bg-color: #0b0220;           /* Deep purple/blue background */
-    --card-bg: rgba(43, 22, 58, 0.3); /* Transparent dark purple for cards */
-    --border-glow: rgba(255, 79, 216, 0.3); /* Magenta glow effect */
+    /* Transition speed */
+    --transition-speed: 0.4s;
+}
+
+/* 🟢 MODO ANOS 80 (Synthwave) */
+.theme-80s {
+    --primary-color: #ff4fd8;      /* Neon magenta */
+    --secondary-color: #f0e6ff;    /* Pale lavender */
+    --tertiary-color: #00f0ff;     /* Neon cyan */
+    --accent-color: #ff4fd8;
+    --bg-color: #0b0220;           /* Deep purple background */
+    --card-bg: rgba(43, 22, 58, 0.4); 
+    --border-glow: rgba(255, 79, 216, 0.3);
+    --header-bg: #0b0220;
+    --text-shadow: 0 0 10px rgba(255, 79, 216, 0.4);
+    --input-bg: #0b0220;
+}
+
+/* 🟡 MODO CLARO (Cream/Sand/Antigravity) */
+.theme-light {
+    --primary-color: #1a73e8;      /* Google Blue */
+    --secondary-color: #3c4043;    /* Google dark grey */
+    --tertiary-color: #188038;     /* Google green */
+    --accent-color: #1a73e8;
+    --bg-color: #fcf9f2;           /* Cream/Sand tone */
+    --card-bg: #ffffff;
+    --border-glow: rgba(0, 0, 0, 0.05);
+    --header-bg: #ffffff;
+    --text-shadow: none;
+    --input-bg: #ffffff;
+}
+
+/* 🔵 MODO ESCURO (Premium Dark) */
+.theme-dark {
+    --primary-color: #bb86fc;      /* Soft purple */
+    --secondary-color: #e0e0e0;    /* Light grey */
+    --tertiary-color: #03dac6;     /* Teal */
+    --accent-color: #bb86fc;
+    --bg-color: #121212;           /* Pure dark */
+    --card-bg: #1e1e1e;
+    --border-glow: rgba(255, 255, 255, 0.05);
+    --header-bg: #1e1e1e;
+    --text-shadow: none;
+    --input-bg: #2d2d2d;
 }
 
 /* Reset básico */
@@ -27,11 +64,12 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    transition: background var(--transition-speed) ease, color var(--transition-speed) ease;
 }
 
 /* Header com efeito neon */
 header {
-    background: var(--bg-color);
+    background: var(--header-bg);
     color: var(--secondary-color);
     padding: 2rem 1rem;
     text-align: center;
@@ -39,7 +77,8 @@ header {
     top: 0;
     z-index: 10;
     border-bottom: 2px solid var(--primary-color);
-    box-shadow: 0 4px 20px rgba(255, 79, 216, 0.3);
+    box-shadow: 0 4px 20px var(--border-glow);
+    transition: all var(--transition-speed) ease;
 }
 
 header h1 {
@@ -47,9 +86,9 @@ header h1 {
     margin-bottom: 0.5rem;
     font-weight: 600;
     color: var(--primary-color);
-    text-shadow: 0 0 20px rgba(255, 79, 216, 0.6),
-                 0 0 40px rgba(255, 79, 216, 0.4);
+    text-shadow: var(--text-shadow);
     letter-spacing: 0.05em;
+    transition: all var(--transition-speed) ease;
 }
 
 .subtitle {
@@ -57,8 +96,9 @@ header h1 {
     color: var(--tertiary-color);
     font-weight: 300;
     margin-bottom: 1.5rem;
-    text-shadow: 0 0 10px rgba(0, 240, 255, 0.4);
+    text-shadow: var(--text-shadow);
     letter-spacing: 0.02em;
+    transition: all var(--transition-speed) ease;
 }
 
 .search-area {
@@ -76,13 +116,13 @@ header h1 {
     padding: 0.75rem 1rem;
     border-radius: 1rem;
     border: 1px solid var(--tertiary-color);
-    background: var(--bg-color);
+    background: var(--input-bg);
     font-family: inherit;
     font-size: 1.2rem;
     font-weight: 300;
     color: var(--secondary-color);
     outline: none;
-    transition: all 0.3s ease;
+    transition: all var(--transition-speed) ease;
 }
 
 .search-area input::placeholder {
@@ -101,14 +141,14 @@ header h1 {
     padding: 0.75rem 2rem;
     border-radius: 1rem;
     border: 1px solid var(--tertiary-color);
-    background-color: var(--bg-color);
+    background-color: var(--input-bg);
     color: var(--secondary-color);
     font-family: inherit;
     font-size: 1rem;
     font-weight: 500;
     cursor: pointer;
     white-space: nowrap;
-    transition: all 0.3s ease;
+    transition: all var(--transition-speed) ease;
 }
 
 .search-area button:hover {
@@ -135,24 +175,71 @@ main {
 /* Container de Cards */
 .card-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
     gap: 2rem;
 }
 
 /* Cards com efeito synthwave */
 .card {
-    background: linear-gradient(135deg, 
-                rgba(43, 22, 58, 0.4) 0%, 
-                rgba(11, 2, 32, 0.6) 100%);
-    border: 1px solid rgba(255, 79, 216, 0.2);
+    background: var(--card-bg);
+    border: 1px solid var(--border-glow);
     border-radius: 1rem;
     padding: 1.5rem;
-    transition: all 0.3s ease;
+    transition: all var(--transition-speed) ease;
+    display: flex;
+    flex-direction: row;
+    gap: 1.25rem;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 15px var(--border-glow);
+}
+
+/* Conteúdo textual do card */
+.card-content {
+    flex: 1;
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
-    position: relative;
+    min-width: 0;
+}
+
+/* Poster do filme */
+.card-poster {
+    width: 110px;
+    min-width: 110px;
+    border-radius: 0.5rem;
     overflow: hidden;
+    background: linear-gradient(160deg, var(--border-glow), transparent);
+    align-self: flex-start;
+    aspect-ratio: 2 / 3;
+    position: relative;
+}
+
+.card-poster::after {
+    content: '🎬';
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    opacity: 0.15;
+}
+
+.poster-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 0.5rem;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    position: relative;
+    z-index: 1;
+}
+
+.poster-img.loaded {
+    opacity: 1;
 }
 
 .card::before {
@@ -341,6 +428,15 @@ footer a:hover::after {
         grid-template-columns: 1fr;
         gap: 1.5rem;
     }
+
+    .card {
+        flex-direction: row;
+    }
+
+    .card-poster {
+        width: 90px;
+        min-width: 90px;
+    }
     
     footer ul {
         flex-direction: column;
@@ -360,6 +456,17 @@ footer a:hover::after {
     
     .card {
         padding: 1rem;
+        flex-direction: column-reverse;
+    }
+
+    .card-poster {
+        width: 100%;
+        min-width: unset;
+        aspect-ratio: 16 / 7;
+    }
+
+    .poster-img {
+        object-position: center 20%;
     }
 
     .card-title {
@@ -373,5 +480,81 @@ footer a:hover::after {
 
     .search-area button {
         margin-top: 0.5rem;
+    }
+}
+
+/* 🎨 THEME TOGGLE STYLES 🎨 */
+.theme-switch-container {
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    display: flex;
+    align-items: center;
+    background: var(--input-bg);
+    padding: 5px;
+    border-radius: 30px;
+    border: 1px solid var(--tertiary-color);
+    box-shadow: 0 0 10px var(--border-glow);
+    transition: all var(--transition-speed) ease;
+    z-index: 100;
+}
+
+.theme-switch {
+    display: flex;
+    position: relative;
+    background: var(--bg-color);
+    border-radius: 20px;
+    width: 120px;
+    height: 34px;
+    padding: 2px;
+}
+
+.theme-option {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 2;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--secondary-color);
+    transition: color 0.3s;
+}
+
+.theme-option span {
+    pointer-events: none;
+}
+
+.theme-selection-slider {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 38px;
+    height: 30px;
+    background: var(--primary-color);
+    border-radius: 18px;
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    z-index: 1;
+    box-shadow: 0 0 10px var(--primary-color);
+}
+
+/* Slider Positions */
+[data-theme="80s"] .theme-selection-slider { transform: translateX(0); }
+[data-theme="light"] .theme-selection-slider { transform: translateX(39px); }
+[data-theme="dark"] .theme-selection-slider { transform: translateX(78px); }
+
+/* Hover effects */
+.theme-switch-container:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px var(--primary-color);
+}
+
+@media (max-width: 768px) {
+    .theme-switch-container {
+        position: relative;
+        top: 0;
+        right: 0;
+        margin: 0 auto 1.5rem;
     }
 }
